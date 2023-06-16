@@ -1,0 +1,10 @@
+transformers
+pytorch-lightning==1.9.2
+deepspeed==0.7.0
+lm_dataformat
+ftfy
+rwkv
+numpy
+tokenizers
+prompt_toolkit
+torch==1.13.1
